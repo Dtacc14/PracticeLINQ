@@ -1,0 +1,14 @@
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\bin\Debug\netcoreapp3.1\PraticeLINQ.exe
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\bin\Debug\netcoreapp3.1\PraticeLINQ.deps.json
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\bin\Debug\netcoreapp3.1\PraticeLINQ.runtimeconfig.json
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\bin\Debug\netcoreapp3.1\PraticeLINQ.runtimeconfig.dev.json
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\bin\Debug\netcoreapp3.1\PraticeLINQ.dll
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\bin\Debug\netcoreapp3.1\PraticeLINQ.pdb
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.csproj.AssemblyReference.cache
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.AssemblyInfoInputs.cache
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.AssemblyInfo.cs
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.dll
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.pdb
+C:\Users\David\Repos\CSharp27\PraticeLINQ\PraticeLINQ\obj\Debug\netcoreapp3.1\PraticeLINQ.genruntimeconfig.cache
