@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Repos\\CSharp27\\PraticeLINQ\\PraticeLINQ\\PraticeLINQ.csproj",
-      "projectName": "PraticeLINQ",
-      "projectPath": "C:\\Users\\David\\Repos\\CSharp27\\PraticeLINQ\\PraticeLINQ\\PraticeLINQ.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Repos\\CSharp27\\PraticeLINQ\\PraticeLINQ\\PracticeLINQ.csproj",
+      "projectName": "PracticeLINQ",
+      "projectPath": "C:\\Users\\David\\Repos\\CSharp27\\PraticeLINQ\\PraticeLINQ\\PracticeLINQ.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\David\\Repos\\CSharp27\\PraticeLINQ\\PraticeLINQ\\obj\\",
       "projectStyle": "PackageReference",

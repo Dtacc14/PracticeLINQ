@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PraticeLINQ
+namespace PracticeLINQ
 {
     internal class Program
     {
